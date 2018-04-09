@@ -30,4 +30,4 @@ Start a new repository or obtain one from an existing URL
 
 ### PICTURE
 
-![gangnamtocat](C:\Users\Diginamic12\Documents\Formation\exo1\demoGit)
+![gangnamtocat](\demoGit)

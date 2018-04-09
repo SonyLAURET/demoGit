@@ -18,6 +18,8 @@ Review edits and craf a commit transaction
 
 * `git commit -m "[descriptive message]"` : *Records file snapshots permanently in version history.*
 
+* `git push"` : *Send commits to the designated remote branch*
+
 ### CREATE REPOSITORIES
 Start a new repository or obtain one from an existing URL
 * `git init [project-name]`: *Creates a new local repository with the specified name*

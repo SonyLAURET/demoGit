@@ -30,4 +30,4 @@ Start a new repository or obtain one from an existing URL
 
 ### PICTURE
 
-![gangnamtocat](\demoGit)
+![Yes We Code](https://octodex.github.com/images/baracktocat.jpg)
